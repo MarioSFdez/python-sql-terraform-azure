@@ -1,4 +1,4 @@
-# Despliegue de una Aplicación Python en Azure con Github Actions y Terraform
+# Despliegue de una Aplicación Python en Azure a través de Github Actions y Terraform
 Despliegue de una aplicación web en Python que incluye un formulario en Azure App Service, conectada a un backend en Azure SQL Database. 
 La infraestructura se gestiona con Terraform, mientras que GitHub Actions automatiza el despliegue. 
 La conexión a la base de datos se maneja mediante variables de entorno para mayor seguridad, y las contraseñas se protegen usando la librería bcrypt.
